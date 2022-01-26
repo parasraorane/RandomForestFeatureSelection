@@ -1,2 +1,5 @@
 # RandomForestFeatureSelection
-A modification in the traditional random forest feature selection method which uses less memory usually for instances where dataset is not loadable in the memory.
+A modified version of the traditional random forest feature selection method.
+
+* Uses samples of dataset thus minimizing memory allocation requirements
+* More accurate in predicting the important features than traditional method
